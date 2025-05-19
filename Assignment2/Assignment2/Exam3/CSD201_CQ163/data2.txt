@@ -1,0 +1,7 @@
+Data for test:
+ EB   	MM   	BO   	IN   	VA   	TY
+ 9   	15   	6   	12   	7   	4
+ 260  	350   	610   	330   	920   	285
+ MM   	VA	MV   	BO   	EB
+ 7   	4   	3   	9   	2
+ 

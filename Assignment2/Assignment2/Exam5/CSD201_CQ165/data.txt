@@ -1,0 +1,7 @@
+Data for test:
+ E   	M   	B   	N   	V   	A
+ 9   	15   	6   	8   	11   	4
+ 260  	350   	610   	330   	920   	285
+ M   	T	N   	B   	E	V
+ 7   	4   	5   	9   	2	3
+ 

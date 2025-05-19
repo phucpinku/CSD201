@@ -1,0 +1,4 @@
+Available items: (A,4,285) (B,6,610) (V,11,920) (N,8,330) (M,15,350) (E,9,260) 
+Order list: (M,7) (T,4) (N,5) (B,9) (E,2) (V,3) 
+Available items: (A,4,285) (B,6,610) (V,8,920) (N,3,330) (M,8,350) (E,7,260) 
+Order list: Empty
